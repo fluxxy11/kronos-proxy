@@ -1,0 +1,12 @@
+{
+    "name": "kronos-proxy",
+    "version": "1.0.0",
+    "main": "api/kronos.js",
+    "scripts": {
+        "start": "node api/kronos.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "node-fetch": "^2.6.7"
+    }
+}
